@@ -28,3 +28,25 @@ This repository documents
 5.  Explored the AWS Management Console, identifying key sections like "Services," "Regions," and the "Support" menu.
 
 ![image](https://github.com/user-attachments/assets/9c13a2df-fee0-4aeb-92ad-1e294b8d80c3)
+
+
+### Assignment 2: Enhancing Security (MFA & Password Policy)
+
+**Steps Performed:**
+1.  **Root User MFA:**
+    * Accessed the IAM dashboard.
+    * Enabled virtual MFA for the Root User using [e.g., Microsoft Authenticator].
+    * Verified MFA configuration.
+2.  **IAM Password Policy:**
+    * Configured a strong password policy for the account, including:
+        * Minimum password length (e.g., 12 characters).
+        * Requirement for uppercase, lowercase, numbers, and non-alphanumeric characters.
+        * Password expiration (e.g., 60 days).
+        * Prevention of password reuse (e.g., last 5 passwords).
+
+**Screenshots:**
+* ![Screenshot 2025-06-15 112002](https://github.com/user-attachments/assets/0d80efd5-5a21-42ef-9578-a4387a17367c)
+* ![Screenshot 2025-06-15 113538](https://github.com/user-attachments/assets/cc7f9045-e829-40d4-b5b8-401f300a0f02)
+* ![Screenshot 2025-06-15 114106](https://github.com/user-attachments/assets/1de05e00-790c-44eb-b10a-fae864916acb)
+
+
