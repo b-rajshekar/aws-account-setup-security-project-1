@@ -41,7 +41,7 @@ This repository documents
     * Enabled virtual MFA for the Root User using [e.g., Microsoft Authenticator].
     * Verified MFA configuration.
 2.  **IAM Password Policy:**
-    * Configured a strong password policy for the account, including:
+        * Configured a strong password policy for the account, including:
         * Minimum password length (e.g., 12 characters).
         * Requirement for uppercase, lowercase, numbers, and non-alphanumeric characters.
         * Password expiration (e.g., 60 days).
