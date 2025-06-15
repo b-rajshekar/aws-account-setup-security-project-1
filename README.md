@@ -13,7 +13,6 @@ This repository documents
 * Setting up budget monitoring to manage AWS costs.
 * Navigating the AWS Management Console effectively.
 
-**AWS Services:**
 ## Technologies Used
 
 * **AWS Identity and Access Management (IAM):** Used for managing user permissions and access control. [Learn more about IAM](https://docs.aws.amazon.com/iam/index.html)
