@@ -13,8 +13,8 @@ This repository documents
 * Setting up budget monitoring to manage AWS costs.
 * Navigating the AWS Management Console effectively.
 
-* **AWS Services:**
-*## Technologies Used
+**AWS Services:**
+## Technologies Used
 
 * **AWS Identity and Access Management (IAM):** Used for managing user permissions and access control. [Learn more about IAM](https://docs.aws.amazon.com/iam/index.html)
 * **AWS Budgets:** Utilized to set custom budgets and receive alerts for cost and usage. [Learn more about AWS Budgets](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-overview.html)
@@ -30,7 +30,7 @@ This repository documents
 4.  Logged in as the Root User.
 5.  Explored the AWS Management Console, identifying key sections like "Services," "Regions," and the "Support" menu.
    
- **Screenshots:**  
+ **Screenshot:**  
 ![image](https://github.com/user-attachments/assets/9c13a2df-fee0-4aeb-92ad-1e294b8d80c3)
 
 
