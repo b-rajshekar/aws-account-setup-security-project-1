@@ -21,7 +21,7 @@ This repository documents
 
   
  
-* ### Assignment 1: Creating an AWS Account & Exploring Console
+### Assignment 1: Creating an AWS Account & Exploring Console
 **Steps Performed:**
 1.  Navigated to aws.amazon.com and initiated the account creation process.
 2.  Verified email and phone number.
