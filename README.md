@@ -48,13 +48,13 @@ This repository documents
         * Prevention of password reuse (e.g., last 5 passwords).
           
 **Screenshots:**
-* ![Screenshot 2025-06-15 112002](https://github.com/user-attachments/assets/0d80efd5-5a21-42ef-9578-a4387a17367c)
-* ![Screenshot 2025-06-15 113538](https://github.com/user-attachments/assets/cc7f9045-e829-40d4-b5b8-401f300a0f02)
-* ![Screenshot 2025-06-15 114106](https://github.com/user-attachments/assets/1de05e00-790c-44eb-b10a-fae864916acb)
+![Screenshot 2025-06-15 112002](https://github.com/user-attachments/assets/0d80efd5-5a21-42ef-9578-a4387a17367c)
+![Screenshot 2025-06-15 113538](https://github.com/user-attachments/assets/cc7f9045-e829-40d4-b5b8-401f300a0f02)
+![Screenshot 2025-06-15 114106](https://github.com/user-attachments/assets/1de05e00-790c-44eb-b10a-fae864916acb)
 
 
 
-* ### Assignment 3: Setting Up Budget Management
+### Assignment 3: Setting Up Budget Management
 **Steps Performed:**
 1.  Navigated to the AWS Budgets service in the Cost Management console.
 2.  Created a new "Cost budget".
@@ -62,8 +62,8 @@ This repository documents
 4.  Reviewed and created the budget.
    
 **Screenshots:**
-* ![Screenshot 2025-06-15 115454](https://github.com/user-attachments/assets/645a9880-1431-4174-8f12-70105338fb1d)
-* ![image](https://github.com/user-attachments/assets/bb9335ab-4efd-4f66-9795-180b39b84d45)
+![Screenshot 2025-06-15 115454](https://github.com/user-attachments/assets/645a9880-1431-4174-8f12-70105338fb1d)
+![image](https://github.com/user-attachments/assets/bb9335ab-4efd-4f66-9795-180b39b84d45)
 
 
 ## Conclusion
